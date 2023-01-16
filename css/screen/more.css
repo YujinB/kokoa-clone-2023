@@ -1,3 +1,6 @@
+.more-screen{
+  height:105vh;
+}
 .user-component__text div{
   display: flex;
   align-items: center;
