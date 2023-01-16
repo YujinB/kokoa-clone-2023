@@ -1,0 +1,35 @@
+.chats-screen .user-component{
+  margin-bottom: 35px;
+}
+.user-component__title{
+  display: flex;
+  align-items: center;
+}
+.user-component__title .me{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin-right: 5px;
+  font-size: 10px;
+}
+.user-component_group {
+  display: flex;
+  flex-direction: column;
+}
+.user-component_group div{
+  display: flex;
+}
+.user-component_group img{
+  width:35px;
+  height:35px;
+  border-radius: 15px;
+}
+.group_number{
+  color: rgba(0, 0, 0, 0.3);
+  margin-left: 6px;
+}
