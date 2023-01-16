@@ -1,7 +1,7 @@
 
 #chat-screen {
   background-color: #c8e0f8;
-  height:500vh;
+  height:120vh;
 }
 
 #chat-screen .alt-header{
@@ -83,7 +83,7 @@
   height: 150px;
 }
 .message__album img{
-  width:120px;
+  width:130px;
   height:150px;
 }
 .message__time, .message__author{
